@@ -46,15 +46,15 @@ export const TaskButton = styled.button`
 `;
 
 export const TaskCheckbox = styled.input.attrs({ type: 'checkbox' })`
-  -webkit-appearance: none;
-  appearance: none;
-  width: 1.5rem;
-  height: 1.5rem;
-  border: 2px solid ${Colors.color.blue_100};
-  border-radius: 16px;
-  background: transparent;
-  cursor: pointer;
-  position: relative;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 2px solid #4EA8DE;
+    border-radius: 16px;
+    background: transparent;
+    cursor: pointer;
+    position: relative;
 
   &:checked::before {
     display: flex;
