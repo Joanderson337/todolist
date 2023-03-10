@@ -17,7 +17,7 @@ export const CustomInputContainer = styled.input<ICustomInputContainerProps>`
   border-radius: 3.2rem;
   color: ${Colors.text.dark};
 
-  Height: 56px;
+  height: 5.6rem;
 
 
   border: ${(props) => (props.hasError ? `2px solid ${Colors.error}` : 'none')};

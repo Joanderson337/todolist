@@ -8,9 +8,9 @@ export const LoginContainer = styled.div`
 `;
 
 export const LoginHeadline = styled.p`
-  margin-bottom: 65px;
-  font-size: 22px;
-  line-height: 32px;
+  margin-bottom: 6.5rem;
+  font-size: 2.2rem;
+  line-height: 3.2rem;
   text-align: center;
   letter-spacing: 0.5px;
   color: #2E3E5C;

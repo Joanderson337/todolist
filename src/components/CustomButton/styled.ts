@@ -19,7 +19,7 @@ export const CustomButtonContainer = styled.button`
   margin-bottom: 2rem;
   gap: 1rem;
 
-  height: 56px;
+  height: 5.6rem;
 
 
   @media (max-width: 600px) {

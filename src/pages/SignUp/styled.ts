@@ -21,7 +21,7 @@ export const SignUpBack = styled.button`
     display: flex;
     align-items: center;
     display: flex;
-    gap: 2px;
+    gap: 0.2rem;
 `;
 
 export const SignUpHeadline = styled.p`
@@ -49,10 +49,6 @@ export const SignUpContent = styled.div`
   flex-direction: column;
   align-items: center;
   width: 45rem;
-
-    >img{
-      width: 8rem;
-    }
 `;
 
 export const SignUpInputContainer = styled.div`
