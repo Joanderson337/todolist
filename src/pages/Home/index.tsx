@@ -1,11 +1,12 @@
-import { Button } from '@/components/Button';
-import { Icon } from '@components/Icon';
+import { Close } from '@/components/Close';
+import { TaskList } from '@/components/TaskList';
+
 
 export function Home() {
   return (
     <>
-      <Icon name="logo" size={20}/>
-      <Button>Hello</Button>
+      <Close />
+      <TaskList />
     </>
   );
 }
