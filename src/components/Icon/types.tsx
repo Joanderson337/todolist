@@ -23,6 +23,7 @@ export type IconName =
   | 'back'
   | 'login'
   | 'user'
+  | 'check'
 
 
 
